@@ -1,6 +1,6 @@
 - 👋 Bonjour, Je suis @TiwoefMorskoul
 - 👀 Je suis actuellement en reconversion professionnelle.
-- 🌱 Je suis en apprentissage pour devenir à terme je l'espère Développeur Web. Actuellement j'apprends les bases HTML/CSS/JS.
+- 🌱 Je suis en formation avec l'organisme O'Clock pour devenir Développeur Web. Actuellement j'apprends HTML/CSS/PHP/JS/SQL et bientôt une spé (Symfony ou REACT).
 - 💞️ Au plaisir.
 
 <!---
